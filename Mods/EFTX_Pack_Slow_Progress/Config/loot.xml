@@ -1805,7 +1805,7 @@
 	</lootgroup>
 
 		<lootgroup name="groupEftxGunsT1" loot_quality_template="QLTemplateT1">
-            <item group="groupEFTXPistolsT1" count="0,1" quality="1" loot_prob_template="veryLowDelayedEft0" force_prob="true"/>
+            <item group="groupEFTXPistolsT1" count="0,1" quality="1" loot_prob_template="veryLowDelayedEft" force_prob="true"/>
             <item group="groupEFTXSMGST1" count="0,1" quality="1" loot_prob_template="veryLowDelayedEft1" force_prob="true"/>
             <item group="groupEFTXShotgunsT1" count="0,1" quality="1" loot_prob_template="veryLowDelayedEft2" force_prob="true"/>
             <item group="groupEFTXRiflesT1" count="0,1" quality="1" loot_prob_template="veryLowDelayedEft3" force_prob="true"/>
